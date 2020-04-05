@@ -1,0 +1,151 @@
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url('/images/penguin_title.png');
+}
+
+#score {
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    left: 75%;
+    border: 3px groove darkslategrey;
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: darkslategrey;
+    text-shadow: 2px 2px lightgrey;
+    background-color: rgba(0, 0, 0, .1);
+}
+/*#newid{
+    background-image:url('/images/penguin_1.png');
+}*/
+
+#p1:hover {
+    background-image:url('/images/mound_1_hover.png');
+    cursor: pointer;
+}
+/*#p1:active {
+    background-image:url('/images/penguin_1.png');
+}*/
+#p1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_1.png');
+}
+#p2:hover {
+    background-image:url('/images/mound_2_hover.png');
+    cursor: pointer;
+}
+/*#p2:active {
+    background-image:url('/images/penguin_2.png');
+}*/
+#p2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_2.png');
+}
+#p3:hover {
+    background-image:url('/images/mound_3_hover.png');
+    cursor: pointer;
+}/*
+#p3:active {
+    background-image:url('/images/penguin_3.png');
+}*/
+#p3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_3.png');
+}
+#p4:hover {
+    background-image:url('/images/mound_4_hover.png');
+    cursor: pointer;
+}/*
+#p4:active {
+    background-image:url('/images/penguin_4.png');
+}*/
+#p4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_4.png');
+}
+#p5:hover {
+    background-image:url('/images/mound_5_hover.png');
+    cursor: pointer;
+}/*
+#p5:active {
+    background-image:url('/images/penguin_5.png');
+}*/
+#p5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_5.png');
+}
+#p6:hover {
+    background-image:url('/images/mound_6_hover.png');
+    cursor: pointer;
+}/*
+#p6:active {
+    background-image:url('/images/penguin_6.png');
+}*/
+#p6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_6.png');
+}
+#p7:hover {
+    background-image:url('/images/mound_7_hover.png');
+    cursor: pointer;
+}/*
+#p7:active {
+    background-image:url('/images/penguin_7.png');
+}*/
+#p7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_7.png');
+}
+#p8:hover {
+    background-image:url('/images/mound_8_hover.png');
+    cursor: pointer;
+}/*
+#p8:active {
+    background-image:url('/images/penguin_8.png');
+}*/
+#p8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_8.png');
+}
+#p9:hover {
+    background-image:url('/images/mound_9_hover.png');
+    cursor: pointer;
+}/*
+#p9:active {
+    background-image:url('/images/yeti.png');
+}*/
+#p9 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/images/mound_9.png');
+}
